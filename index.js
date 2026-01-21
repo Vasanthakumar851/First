@@ -1,5 +1,5 @@
-let fname="Vasanth";
-let lname="Kumar";
+let fname="Bala";
+let lname="Mani";
 
 function add(){
     return fname+" "+lname;
